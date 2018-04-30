@@ -9,13 +9,13 @@
     "css",
     "ie9"
   ],
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "https://github.com/tradingview/css-file-rules-webpack-separator.git"
   },
   "license": "MIT",
   "dependencies": {
     "bless": "^3.0.3",
-    "webpack": "^1.10.1"
+    "webpack": "^2.2.0"
   }
 }
