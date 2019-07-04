@@ -16,6 +16,12 @@
   "license": "MIT",
   "dependencies": {
     "bless": "^3.0.3",
-    "webpack": "^2.2.0"
-  }
+    "webpack": "^2.2.0",
+    "snyk": "^1.189.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
