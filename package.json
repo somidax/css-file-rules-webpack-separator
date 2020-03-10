@@ -16,6 +16,6 @@
   "license": "MIT",
   "dependencies": {
     "bless": "^3.0.3",
-    "webpack": "^2.2.0"
+    "webpack": "^4.29.0"
   }
 }
